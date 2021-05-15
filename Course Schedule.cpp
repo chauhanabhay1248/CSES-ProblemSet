@@ -3,7 +3,7 @@ using namespace std;
 
 const long long SZ = 1e5 + 7;
 const long long inf = 1e18;
-const long long mod = 1e9 + 7;
+const long long mod = 1e9 + 7;;
 const long long MOD = 998244353;
 
 typedef long long int ll;
